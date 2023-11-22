@@ -2,8 +2,10 @@
 	{"Name" : "Afghan Hound",
       "Location" : "Afghanistan",
       "Details" : "The Afghan Hound is a hound that is distinguished by its thick, fine, silky coat and its tail with a ring curl at the end. The breed is selectively bred for its unique features in the cold mountains of Afghanistan.  Other names for this breed are Kuchi Hound, Tāzī, Balkh Hound, Baluchi Hound, Barakzai Hound, Shalgar Hound, Kabul Hound, Galanday Hound or sometimes incorrectly African Hound.",
-      "Image" : "https://upload.wikimedia.org/wikipedia/commons/6/69/Afghane.jpg"
-	  
+      "Image" : "https://upload.wikimedia.org/wikipedia/commons/6/69/Afghane.jpg",
+	  "Population" : 0,
+	  "Latitude" : 0.0,
+	  "Longitude" : 0.0	  
 	  }
 	  ,
 	  {
@@ -11,13 +13,19 @@
 	  "Name" : "Alpine Dachsbracke",
 "Location" : "Austria",
 "Details" : "The Alpine Dachsbracke is a small breed of dog of the scent hound type originating in Austria. The Alpine Dachsbracke was bred to track wounded deer as well as boar, hare, and fox. It is highly efficient at following a trail even after it has gone cold. The Alpine Dachsbracke is very sturdy, and Austria is said to be the country of origin.",
-"Image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alpejski_gończy_krótkonożny_g99.jpg/320px-Alpejski_gończy_krótkonożny_g99.jpg"
+"Image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Alpejski_gończy_krótkonożny_g99.jpg/320px-Alpejski_gończy_krótkonożny_g99.jpg",
+	  "Population" : 0,
+	  "Latitude" : 0.0,
+	  "Longitude" : 0.0	  
 }
 ,
 {
 	"Name" : "Irish Terrier",
 "Location" : "Ireland",
 "Details" : "The Irish Terrier is a dog breed from Ireland, one of many breeds of terrier. The Irish Terrier is considered one of the oldest terrier breeds. The Dublin dog show in 1873 was the first to provide a separate class for Irish Terriers. By the 1880s, Irish Terriers were the fourth most popular breed in Ireland and Britain.",
-"Image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IrishTerrierSydenhamHillWoods.jpg/180px-IrishTerrierSydenhamHillWoods.jpg"
+"Image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/IrishTerrierSydenhamHillWoods.jpg/180px-IrishTerrierSydenhamHillWoods.jpg",
+	  "Population" : 0,
+	  "Latitude" : 0.0,
+	  "Longitude" : 0.0	  
 }
 ]
